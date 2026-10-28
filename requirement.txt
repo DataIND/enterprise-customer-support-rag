@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+pgvector
+alembic
+celery[redis]
+redis
+openai
+PyJWT[crypto]
+python-multipart
+httpx
+tenacity
+structlog
